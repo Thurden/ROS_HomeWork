@@ -11,7 +11,7 @@
    `echo $ROS_PACKAGE_PATH`  
  **if it shows like the following :**  
   ` /home/usrname/catkin_ws/src`  
- it means the environment setting is **success**
+ it means the environment setting is **success**  
  **Create a package**  
  `catkin_create_pkg packagename rospy`  
  `mkdir scripts`  
